@@ -376,7 +376,7 @@ p {
 
 .testimoniales blockquote::before {
 	content: '';
-	background-image: url(/img/comilla.svg);
+	background-image: url("../img/comilla.svg");
 	width: 4rem;
 	height: 4rem;
 	position: absolute;
