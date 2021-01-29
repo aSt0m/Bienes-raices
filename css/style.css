@@ -89,7 +89,7 @@ h6 {
 	display: block;
 	flex: 0 0 100%;
 }
-@madia (min-width: 320px) {
+@media (min-width: 320px) {
 	.boton {
 		display: inline-block;
 		flex: 0 0 auto;
